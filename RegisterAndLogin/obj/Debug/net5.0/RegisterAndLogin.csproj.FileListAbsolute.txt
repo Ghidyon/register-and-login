@@ -1,0 +1,16 @@
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\bin\Debug\net5.0\RegisterAndLogin.exe
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\bin\Debug\net5.0\RegisterAndLogin.deps.json
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\bin\Debug\net5.0\RegisterAndLogin.runtimeconfig.json
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\bin\Debug\net5.0\RegisterAndLogin.runtimeconfig.dev.json
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\bin\Debug\net5.0\RegisterAndLogin.dll
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\bin\Debug\net5.0\ref\RegisterAndLogin.dll
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\bin\Debug\net5.0\RegisterAndLogin.pdb
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\obj\Debug\net5.0\RegisterAndLogin.csproj.AssemblyReference.cache
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\obj\Debug\net5.0\RegisterAndLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\obj\Debug\net5.0\RegisterAndLogin.AssemblyInfoInputs.cache
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\obj\Debug\net5.0\RegisterAndLogin.AssemblyInfo.cs
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\obj\Debug\net5.0\RegisterAndLogin.csproj.CoreCompileInputs.cache
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\obj\Debug\net5.0\RegisterAndLogin.dll
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\obj\Debug\net5.0\ref\RegisterAndLogin.dll
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\obj\Debug\net5.0\RegisterAndLogin.pdb
+C:\Users\ghidyon\source\repos\RegisterAndLogin\RegisterAndLogin\obj\Debug\net5.0\RegisterAndLogin.genruntimeconfig.cache
